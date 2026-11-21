@@ -16,5 +16,5 @@ const songs = [
         name: "Joy To The World",
         artist: "isaac Watts",
         audio: "./joy-to-the-world.mp3"
-    },
+    }
 ]
